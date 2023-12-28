@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin Mogendi</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin-mogendi" alt="kelvin-mogendi" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin-mogendi" alt="kelvin-mogendi" /></a> </p> -->
 
 - 🌱 I’m currently learning **Angular.js**
 
