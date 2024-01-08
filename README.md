@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kelvinmomanyi3@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I Love football and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
